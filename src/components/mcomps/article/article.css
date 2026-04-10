@@ -1,7 +1,10 @@
 .article{
-    grid-area: article;
-    background-color: green;
     width: 60vw;
+    grid-area: article;
+    background-color: #e5a633;
+    color: white;
+    text-align: center;
+    font-weight: bold;
     border-left: black solid 2px;
     border-right: black solid 2px;
 }
